@@ -4,7 +4,7 @@
 
 <h1 align="center">UtilityToolsV2</h1>
 <p align="center">
-  <b>High-performance Discord Webhook management & stress testing suite</b><br>
+  <b>High-performance Discord Webhook management & Spammer/b><br>
   <i>Spam · Delete · Proxy Support · Multi-threaded efficiency</i>
 </p>
 
