@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.PNG" alt="UtilityToolsV2" width="1000">
+  <img src="banner.PNG" alt="UtilityToolsV2" width="1000">
 </p>
 
 <h1 align="center">UtilityToolsV2</h1>
