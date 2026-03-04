@@ -29,9 +29,9 @@
 
 ```bash
 # 1. Download and extract the repository
-# 2. Run run.bat to install requirements (pystyle, requests, etc.)
+# 2. Run build.bat to install requirements (pystyle, requests, etc.)
 # 3. Add your proxies to data/proxies.txt (if using proxy mode)
-# 4. Launch main.py to start the hub
+# 4. Launch the tool wit run.bat 
 ```
 <p align="center">
 <i>Developed for educational purposes and authorized stress testing only.</i>
